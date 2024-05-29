@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/beabillionaire/bingo-card-generator.git/static/css/main.fd3a45bb.css",
-    "main.js": "/beabillionaire/bingo-card-generator.git/static/js/main.bc723f78.js",
-    "static/js/453.61924006.chunk.js": "/beabillionaire/bingo-card-generator.git/static/js/453.61924006.chunk.js",
-    "index.html": "/beabillionaire/bingo-card-generator.git/index.html",
-    "main.fd3a45bb.css.map": "/beabillionaire/bingo-card-generator.git/static/css/main.fd3a45bb.css.map",
-    "main.bc723f78.js.map": "/beabillionaire/bingo-card-generator.git/static/js/main.bc723f78.js.map",
-    "453.61924006.chunk.js.map": "/beabillionaire/bingo-card-generator.git/static/js/453.61924006.chunk.js.map"
+    "main.css": "/bingo-card-generator/static/css/main.fd3a45bb.css",
+    "main.js": "/bingo-card-generator/static/js/main.0e8513f8.js",
+    "static/js/453.61924006.chunk.js": "/bingo-card-generator/static/js/453.61924006.chunk.js",
+    "index.html": "/bingo-card-generator/index.html",
+    "main.fd3a45bb.css.map": "/bingo-card-generator/static/css/main.fd3a45bb.css.map",
+    "main.0e8513f8.js.map": "/bingo-card-generator/static/js/main.0e8513f8.js.map",
+    "453.61924006.chunk.js.map": "/bingo-card-generator/static/js/453.61924006.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fd3a45bb.css",
-    "static/js/main.bc723f78.js"
+    "static/js/main.0e8513f8.js"
   ]
 }
